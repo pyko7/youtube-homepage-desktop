@@ -2,6 +2,10 @@
 
 Here's a quick and non-operational copy of the YouTube desktop homepage.
 
+
+[Live URL](https://pyko7.github.io/youtube-homepage-desktop/)
+
+
 ### Built With
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
